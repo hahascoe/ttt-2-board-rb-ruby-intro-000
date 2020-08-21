@@ -2,4 +2,4 @@
 baord=[ " "," "," ",
         " "," "," "
         ," "," "," " ]
-puts board[0,1,2]
+puts board
